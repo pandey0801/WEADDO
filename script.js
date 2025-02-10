@@ -14,17 +14,17 @@
 const images = [
   {
     src: "image1.jpg",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1100s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
     heading: "General Sales Agent",
   },
   {
     src: "image2.jpg",
-    text: "Phasellus malesuada lectus et ex vestibulum semper vitae et dolor.",
+    text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1200s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
     heading: "Cargo Sales Agent",
   },
   {
     src: "image3.jpg",
-    text: "Vivamus egestas sit amet eros eget congue.",
+    text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1300s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
     heading: "Block Space Agreement",
   },
 ];
