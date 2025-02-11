@@ -1,30 +1,17 @@
-// document.addEventListener("DOMContentLoaded", () => {
-//   let slides = document.querySelectorAll(".slide");
-//   let currentIndex = 0;
-
-//   function showNextSlide() {
-//     slides[currentIndex].classList.remove("active");
-//     currentIndex = (currentIndex + 1) % slides.length;
-//     slides[currentIndex].classList.add("active");
-//   }
-
-//   setInterval(showNextSlide, 300); // Change slide every 3 seconds
-// });
-
 const images = [
   {
     src: "image1.jpg",
-    text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1100s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    text: "(GSA) means any Person to whom a Member of IATA or non-IATA air carrier has delegated general authority to represent it for purposes of sales of passenger and/or cargo air transportation in a defined territory and who is remunerated accordingly.",
     heading: "General Sales Agent",
   },
   {
     src: "image2.jpg",
-    text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1200s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    text: " sales representative or agent for the cargo division of an airline or shipping line. In summary, a Cargo Sales Agency specializes in promoting and selling cargo transportation services. They actively engage with customers, secure cargo bookings, and facilitate the movement of goods.",
     heading: "Cargo Sales Agent",
   },
   {
     src: "image3.jpg",
-    text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1300s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    text: "Blocked Space Agreement: Agreement of purchasing a number of passenger seats / cargo space by a carrier (the Marketing Carrier) for the carriage of its traffic on an aircraft of a second carrier (the Operating Carrier)",
     heading: "Block Space Agreement",
   },
 ];
